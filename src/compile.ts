@@ -133,6 +133,7 @@ compileOpdrug();
 compileIpd();
 compileIpdx();
 compileIpop();
+compileIpdrug();
 compileLab();
 compileAppoint();
 compileChronic();
